@@ -13,7 +13,7 @@ int main() {
     int remainingProfit = Revenue - totalMonthlyExpenses;
     int yearlySavings = remainingProfit * 12;
 
-    cout << "Total Monthly Expenses: $" << totalMonthlyExpenses << endl;
+    cout << "Total MOnthly Expenses: $" << totalMonthlyExpenses << endl;
     cout << "Remaining Profit: $" << remainingProfit << endl;
     cout << "Yearly Savings: $" << yearlySavings << endl;
 
